@@ -1,0 +1,15 @@
+# 核心依赖，必须忽略
+node_modules/
+
+# 打包产物，也建议忽略
+dist/
+
+# 环境配置文件（如果不想上传密钥）
+.env
+.env.local
+
+# Python 虚拟环境
+.venv/
+venv/
+*.pyc
+__pycache__/

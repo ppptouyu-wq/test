@@ -1,0 +1,2 @@
+-- Optional: keep for future schema/data seeding.
+-- The application uses Flask-Migrate to create tables.
