@@ -117,10 +117,24 @@ python manage.py db upgrade
 > ```powershell
 > Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 > ```
-## 运行效果截图  
+## 运行效果截图
 ### 首页
+会显示一些关键信息与快捷入口
 <img width="1860" height="883" alt="11f982d5ac58eb96519805d045d719e7" src="https://github.com/user-attachments/assets/e2749372-1ebe-4e29-a5ee-07ad2df255cd" />
+### 学生档案
+会显示已经添加的学生档案信息，并且可以查询和新增学生信息
+<img width="1860" height="883" alt="9f6cc08e2e9d0aedf57f36935eae8825" src="https://github.com/user-attachments/assets/79ffe579-b54d-4e84-b242-306c84ae9595" />
+<img width="1860" height="883" alt="609af4222dbe3c3386ac10057edc8001" src="https://github.com/user-attachments/assets/b5b79d46-8b20-4797-a249-f618706bb34c" />
+<img width="1860" height="883" alt="3dcec4fac86f92341435fd26e2d7bba3" src="https://github.com/user-attachments/assets/bb37aa03-188f-410b-8775-3415caeb7c9d" />
+### 班级概览
+根据年级和班级会显示每个班的人数，并且可以查看该班有多少学生  
+<img width="1860" height="883" alt="ef5698231e76d3bc5b5f1a65aa10e9ca" src="https://github.com/user-attachments/assets/9247cc16-82c3-4bbc-90cd-1069179b18a0" />
+### 关于系统
+显示这个简单系统所用到的技术，可以一键检查后端是否连接成功
+<img width="1860" height="883" alt="5a53ac6b78b1cd1ff3359a9cc3e2468c" src="https://github.com/user-attachments/assets/4f71ad70-64de-4e6b-9966-7318b014479a" />
 
+
+### 
 
 ## 说明
 
