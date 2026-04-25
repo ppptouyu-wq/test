@@ -117,7 +117,9 @@ python manage.py db upgrade
 > ```powershell
 > Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 > ```
-
+## 运行效果截图  
+### 首页
+<img width="1860" height="883" alt="11f982d5ac58eb96519805d045d719e7" src="https://github.com/user-attachments/assets/e2749372-1ebe-4e29-a5ee-07ad2df255cd" />
 
 
 ## 说明
